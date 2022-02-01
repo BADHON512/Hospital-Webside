@@ -1,0 +1,26 @@
+.footer{
+    padding-top: 150px;
+    background-image: url(../../../images/footer-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.lst{
+    margin-top: 50px;
+    margin-left:30px;
+}
+li{
+    list-style: none;
+    
+}
+.kl{
+  margin-top: 25px;
+}
+.clo{
+    margin-top: 50px;
+}
+.mlt{
+    margin-left: 10px;
+}
+.mmd{
+    padding-top: 15px;
+}

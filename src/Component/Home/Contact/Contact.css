@@ -1,0 +1,31 @@
+.mar{
+    margin-top: 120px;
+    background-image: url(../../../images/appointment-bg.png);
+    height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover  cover;
+  
+}
+.mar::before{
+    content: " ";
+    display: block;
+    background-color: rgba(24, 20, 20, 0.6);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+  
+}
+.dil{
+    padding-top: 90px;
+  
+}
+.nnh{
+    width: 675px;
+    color: white;
+    
+}
+.zet{
+    z-index: 6;
+}

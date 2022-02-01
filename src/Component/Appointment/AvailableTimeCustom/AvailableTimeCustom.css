@@ -1,0 +1,31 @@
+.kkd{
+    margin-left: 45px;
+}
+.kkg{
+    color: rgb(51, 8, 209);
+ 
+}
+.hhm{
+    
+   padding-bottom: 10px;
+    position: relative;
+   
+}
+.hlfd{
+    background-image: url(../../../images/bg-tilme.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 70px;
+}
+.hlfd::before{
+    content: '';
+    background-color: rgba(44, 36, 36, 0.842);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+}
+.dds{
+    padding-top: 70px;
+}

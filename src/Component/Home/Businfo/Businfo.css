@@ -1,0 +1,14 @@
+.uinfo-primary{
+    background-color: rgb(38, 199, 92); height: 100px;
+}
+.uinfo-dark{
+    background-color: rgb(37, 35, 35);
+}
+.fo-icon{
+    font-size: 4em;
+    margin-right: 10px;
+}
+.info-gg{
+   height: 120px;
+   padding: 20px;
+}

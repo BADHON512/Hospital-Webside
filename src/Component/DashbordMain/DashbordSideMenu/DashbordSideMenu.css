@@ -1,0 +1,9 @@
+.back{
+    background-color: greenyellow;
+    height: 650px;
+    background-image: linear-gradient(green, greenyellow);
+}
+.side{
+    padding-top: 100px;
+    color: white;
+}

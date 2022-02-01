@@ -1,0 +1,13 @@
+.mrauto{
+    margin-left: auto;
+   
+}
+.mrauto a{
+    margin-right: 40px;
+}
+a:hover{
+    background-color: green;
+   
+
+    border-radius: 10px;
+}
